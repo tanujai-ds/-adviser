@@ -62,10 +62,8 @@ Copy your API key (X-RapidAPI-Key)
 
 Create a file called apikey.txt in your project root folder
 
-Paste your API key inside apikey.txt like this:
+Paste your API key inside apikey.txt
 
-use:7d201b3976mshd584adeeecca511p1072b2jsn48c049eb6153
-into the api key
 
 ▶️ Run the App
 
