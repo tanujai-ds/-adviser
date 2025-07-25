@@ -1,0 +1,16 @@
+# Python cache and environment folders
+__pycache__/
+*.pyc
+.env
+venv/
+.envrc
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Sensitive or generated files
+career_model.pkl
+*.pkl
+*.log
+apikey.txt
